@@ -11,8 +11,8 @@
   ],
   "dependencies": {
     "mongoose": "3.6.11",
-    "request": "2.25.0",
-    "async": "0.2.9"
+    "request": "2.75.0",
+    "async": "3.2.2"
   },
   "devDependencies": {
     "mocha": "1.8.1",
